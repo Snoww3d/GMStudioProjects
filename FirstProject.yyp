@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0e32d283-7b14-43c5-bedb-5f61fdb332ab",
+            "Value": {
+                "id": "f2b54ec7-9871-4fd9-8b2f-b3f391a52604",
+                "resourcePath": "sprites\/sp_player_walk\/sp_player_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c54e463-6f09-4332-9d6e-f7f1daf939e2",
             "Value": {
                 "id": "278c2c99-2d88-4849-b040-5d0b80738ec3",
@@ -114,7 +122,7 @@
             "Key": "53704a2c-f587-428e-bf3b-c4b2c7f0f27d",
             "Value": {
                 "id": "9b62e4a6-9908-44b5-8c16-206eb0d3fd2d",
-                "resourcePath": "sprites\/sprite0\/sprite0.yy",
+                "resourcePath": "sprites\/sp_player_idle\/sp_player_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -124,6 +132,14 @@
                 "id": "1568dd53-4e4b-4e40-b8c3-67ce5ab73602",
                 "resourcePath": "views\/58119201-52c9-4f1d-a85c-2540434af893.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58782497-bb4c-455d-955d-7151c0929a6e",
+            "Value": {
+                "id": "bd77d2be-8b76-4842-8114-44c9d81f5678",
+                "resourcePath": "sprites\/sp_spider_idle\/sp_spider_idle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,11 +167,27 @@
             }
         },
         {
+            "Key": "88f7a0fe-2e0a-4edd-895a-02c6b96e2292",
+            "Value": {
+                "id": "36d4aacb-220b-43d9-84f0-e369472e30b4",
+                "resourcePath": "sprites\/sp_player_attack\/sp_player_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4ef1a5b-b999-43b4-b885-a416fe1a00c2",
             "Value": {
                 "id": "80a6ca7c-7777-4f28-9fcd-ab2cf94cd4c4",
                 "resourcePath": "views\/a4ef1a5b-b999-43b4-b885-a416fe1a00c2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a740d859-8fc5-4ceb-a625-c7294e9d36f0",
+            "Value": {
+                "id": "99e8f511-c107-4b35-8015-cba35b6476b3",
+                "resourcePath": "sprites\/sp_spider_walk\/sp_spider_walk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
