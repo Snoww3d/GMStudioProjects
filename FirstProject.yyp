@@ -175,6 +175,22 @@
             }
         },
         {
+            "Key": "90119494-b832-4ab8-87d7-b9ee10ff59d2",
+            "Value": {
+                "id": "849f4907-d0b2-4d04-b3b5-9ce8a25e085e",
+                "resourcePath": "sprites\/sp_hitbox\/sp_hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "967feb2b-a483-4e46-a695-1f748c9bf2e1",
+            "Value": {
+                "id": "0cc9e82e-e696-4b39-9c21-d7f27324cfe0",
+                "resourcePath": "sprites\/sp_wall\/sp_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4ef1a5b-b999-43b4-b885-a416fe1a00c2",
             "Value": {
                 "id": "80a6ca7c-7777-4f28-9fcd-ab2cf94cd4c4",
@@ -220,6 +236,14 @@
                 "id": "d8626604-25e3-4c4d-9d52-94c81265c35b",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce6e87d1-15fb-4c56-82d6-cf994507a4f7",
+            "Value": {
+                "id": "052d84ed-678e-44b8-92f3-f95ab2d5b4bf",
+                "resourcePath": "sprites\/sp_player_jump\/sp_player_jump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
